@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pradnyik
 - 👀 I’m interested in WEB DEV(c++,python,html,MySql)
-- 🌱 I’m currently learning MySql
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
